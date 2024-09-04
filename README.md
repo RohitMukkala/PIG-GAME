@@ -33,9 +33,9 @@ cd PIG-GAME
 Open index.html in your web browser to start playing the game.
 
 ## Usage
--Roll Dice: Click the "Roll Dice" button to roll the dice and add points.
--Hold: Click the "Hold" button to save your current score and end your turn.
--Restart Game: Refresh the page or click on the restart button to start a new game.
+- Roll Dice: Click the "Roll Dice" button to roll the dice and add points.
+- Hold: Click the "Hold" button to save your current score and end your turn.
+- Restart Game: Refresh the page or click on the restart button to start a new game.
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and make a pull request. Contributions can include bug fixes, new features, or improvements to the game's UI/UX.
